@@ -1,0 +1,988 @@
+.main{
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 4560px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 12px;
+    color: #2b2b2b;
+    font-family: Poppins;
+}
+.image-4-icon {
+    position: absolute;
+    top: 29px;
+    left: -7px;
+    width: 842px;
+    height: 547px;
+    object-fit: cover;
+}
+.image-5-icon {
+    position: absolute;
+    top: 29px;
+    left: 835px;
+    width: 503px;
+    height: 274px;
+    object-fit: cover;
+}
+.image-6-icon {
+    position: absolute;
+    top: 303px;
+    left: 835px;
+    width: 503px;
+    height: 273px;
+    object-fit: cover;
+}
+.macbook-air2{
+    position: absolute;
+    top: 482px;
+    left: 142px;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.2);
+    width: 1076px;
+    height: 215px;
+  }
+  .combo-deals-img-container {
+    position: absolute;
+    top: 516px;
+    left: 174px;
+    display: inline-block;
+    width: 816px;
+    font-size: 40px;
+    color: #292929;
+    font-family: Inter;
+}
+.combo-deals2 {
+    text-transform: uppercase;
+    font-family: Inter;
+    color: #f28300;
+    left:100px;
+}
+.span {
+    font-weight: 500;
+}
+.combo-deals1 {
+    line-height: 130.02%;
+}
+.combo-deals {
+    margin: 0;
+}
+.img-worlds-of-adventure-free {
+    margin: 0;
+    font-size: 28px;
+}
+.reviews2 {
+    position: absolute;
+    top: 634px;
+    left: 321px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+    color: rgba(0, 0, 0, 0.76);
+    text-align: center;
+    display: inline-block;
+    width: 114px;
+    height: 21.55px;
+}
+.star{
+    position: absolute;
+  	height: 1.3%;
+  	width: 11%;
+  	top: 13.40%;
+  	right: 78.59%;
+  	bottom: 90.15%;
+  	left: 12.4%;
+}
+.macbook-air-2-child9 {
+    position: absolute;
+    top: 619px;
+    left: 969px;
+    border-radius: 7px;
+    background-color: #f28500;
+    width: 182px;
+    height: 53px;
+}
+.from-pkr {
+    position: absolute;
+    top: 507px;
+    left: 1026px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+    color: rgba(0, 0, 0, 0.76);
+    display: inline-block;
+    width: 76px;
+    height: 21.55px;
+}
+.div1 {
+    position: absolute;
+    top: 526.5px;
+    left: 994px;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+    color: rgba(0, 0, 0, 0.76);
+    display: inline-block;
+    width: 153px;
+    height: 36.95px;
+}
+.book-now {
+    position: absolute;
+    top: 631px;
+    left: 1006px;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Inter;
+    color: #fff;
+}
+.img-worlds-of1 {
+    position: absolute;
+    top: 753px;
+    left: 59px;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Inter;
+}
+.combo-tours-and-container{
+    position: absolute;
+  	top: 769px;
+  	left: 59px;
+  	font-size: 20px;
+  	font-family: Inter;
+  	color: #454545;
+  	white-space: pre-wrap;
+  	display: inline-block;
+  	width: 1162px;
+  	height: 184px;
+
+}
+.free-burj-khalifa {
+    position: absolute;
+    top: 1026px;
+    left: 57px;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Inter;
+}
+.combo-tours-and-container1 {
+    position: absolute;
+    top: 1083px;
+    left: 57px;
+    font-size: 22px;
+    font-family: Inter;
+    color: #454545;
+    display: inline-block;
+    width: 1162px;
+    height: 221px;
+}
+.highlights{
+    top:200px;
+}
+.enjoy-stunning-vistas-container {
+    position: absolute;
+    top: 1332px;
+    left: 44px;
+    font-size: 22px;
+    line-height: 47.02%;
+    font-family: Inter;
+    color: #3f3f3f;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 1208px;
+}
+.macbook-air-2-child5 {
+    position: absolute;
+    top: 1793px;
+    left: 52px;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.2);
+    width: 1229px;
+    height: 239px;
+}
+.arrow{
+    position:absolute;
+    left:1107px;
+    top:-72px;
+}
+.inclusion {
+    position: absolute;
+    top: -85px;
+    left:0px;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Inter;
+}
+.save-big-with-this-combo-ticket{
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 29px;
+    
+}
+.burj-khalifa-free-container {
+    position: relative;
+    top: 103px;
+    left: 35px;
+    font-size: 22px;
+    font-family: Inter;
+    color: #3f3f3f;
+}
+.macbook-air-2-child6 {
+    position: absolute;
+    top: 2073px;
+    left: 52px;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.2);
+    width: 1229px;
+    height: 179px;
+}
+.cancellation-policy {
+     font-size: 26px;
+    font-weight: 600;
+    font-family: Inter;
+}
+.these-tickets-cant {
+    font-size: 22px;
+    font-family: Inter;
+    color: #3f3f3f;
+}
+.irr{
+    position:absolute;
+    height:170px;
+    width:623px;
+    /* background-color: green; */
+    left:36px;
+}
+.arrow1{
+    position:absolute;
+    left:1151px;
+    top:35px;
+}
+.macbook-air-2-child7 {
+    position: absolute;
+    top: 2294px;
+    left: 52px;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.2);
+    width: 1229px;
+    height: 530px;
+}
+.my-tickets {
+    
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Inter;
+}
+.your-voucher-will-container {
+   
+    font-size: 22px;
+    line-height: 41.02%;
+    font-family: Inter;
+    color: #3f3f3f;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 1113px;
+}
+.tickets{
+    position: absolute;
+    height: 500px;
+    width:1000px;
+    /* background-color: green; */
+    left:36px;
+
+}
+.macbook-air-2-child {
+    position: absolute;
+    top: 2869px;
+    left: 50px;
+    background-color: #fff;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.2);
+    width: 1229px;
+    height: 1655px;
+}
+.arrow2{
+    position:absolute;
+    left:1151px;
+    top:35px;
+}
+.ratings {
+    position: absolute;
+    top: 2880px;
+    left: 94px;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Inter;
+}
+.rating{
+    position: absolute;
+    width:300px;
+    height: 200px;
+}
+.overall-rating {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 193.08px;
+    height: 38.96px;
+}
+.reviews1 {
+  	position: absolute;
+  	top: 64.14px;
+  	left: 184.17px;
+  	font-size: 14px;
+  	color: #676767;
+  	display: inline-block;
+  	width: 98.17px;
+  	height: 21.53px;
+}
+.number {
+    position: absolute;
+    top: 46px;
+    left: 1.09px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #1d1d1d;
+    display: inline-block;
+    width: 39.27px;
+    height: 36.91px;
+}
+.star1{
+    position: absolute;
+  	height: 21.3%;
+  	width: 41%;
+  	top: 31.55%;
+  	right: 78.59%;
+  	/* bottom: 20.15%; */
+  	left: 17.4%;
+}
+.vector-parent {
+    position: absolute;
+    top: 3088.78px;
+    left: 94.27px;
+    width: 167.99px;
+    height: 41.01px;
+    font-size: 16px;
+    color: #fff;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 167.99px;
+    height: 41.01px;
+}
+.write-a-review {
+    position: relative;
+    top: -11.2px;
+    left: 19.63px;
+    font-weight: 600;
+    display: inline-block;
+    width: 143.99px;
+    height: 24.61px;
+}
+.group-parent {
+    position: absolute;
+    height: calc(100% - 6526.63px);
+    width: calc(100% - 854.58px);
+    top: 3020.09px;
+    right: 123.9px;
+    bottom: 3506.54px;
+    left: 730.67px;
+    text-align: left;
+    color: #444;
+    font-family: 'Segoe UI';
+}
+.group-container {
+    position: absolute;
+    height: calc(100% - 79.97px);
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 79.97px;
+    left: 0px;
+}
+.divratingbar-barfill-sc-liph-parent {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 57.81px);
+    top: 0px;
+    right: 57.81px;
+    bottom: 0px;
+    left: 0px;
+}
+.k {
+    position: relative;
+    line-height: 16px;
+}
+.divratingbar-ratingcount-sc- {
+    position: absolute;
+    top: 0px;
+    left: 399.24px;
+    width: 26.18px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0px 0px 0px 2px;
+    box-sizing: border-box;
+}
+.svg0 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 203.8px);
+    width: 17.45px;
+    height: 16.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.6999499797821045px 1.1667003631591797px 1.6200001239776611px 1.5px;
+    box-sizing: border-box;
+}
+.svg {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 183.8px);
+    width: 17.45px;
+    height: 16.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.6999499797821045px 1.1667003631591797px 1.6200001239776611px 1.5px;
+    box-sizing: border-box;
+}
+.svg1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 164.17px);
+    width: 17.45px;
+    height: 16.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.6999499797821045px 1.1667003631591797px 1.6200001239776611px 1.5px;
+    box-sizing: border-box;
+}
+.svg2 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 144.53px);
+    width: 17.45px;
+    height: 16.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.6999499797821045px 1.1667003631591797px 1.6200001239776611px 1.5px;
+    box-sizing: border-box;
+}
+.svg3 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 124.9px);
+    width: 17.45px;
+    height: 16.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.6999499797821045px 1.1667003631591797px 1.6200001239776611px 1.5px;
+    box-sizing: border-box;
+}
+.svg4{
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 124.9px);
+    width: 17.45px;
+    height: 16.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.6999499797821045px 1.1667003631591797px 1.6200001239776611px 1.5px;
+    box-sizing: border-box;
+}
+.vector-icon4 {
+    position: absolute;
+    height: 79.25%;
+    width: 3.96%;
+    top: 10.62%;
+    right: 74.23%;
+    bottom: 10.13%;
+    left: 21.81%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.divratingbar-barfill-sc-liph1 {
+    position: absolute;
+    height: calc(100% - 12.3px);
+    width: calc(100% - 182.84px);
+    top: 6.15px;
+    right: 65.03px;
+    bottom: 6.15px;
+    left: 117.81px;
+    border-radius: 4px;
+    background-color: #e50e0e;
+}
+.divratingbar-barfill-sc-liph-parent {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 57.81px);
+    top: 0px;
+    right: 57.81px;
+    bottom: 0px;
+    left: 0px;
+}
+.k {
+    position: relative;
+    line-height: 16px;
+}
+.divratingbar-ratingcount-sc- {
+    position: absolute;
+    top: 0px;
+    left: 399.24px;
+    width: 26.18px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0px 0px 0px 2px;
+    box-sizing: border-box;
+}
+.group-container {
+    position: absolute;
+    height: calc(100% - 79.97px);
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 79.97px;
+    left: 0px;
+}
+.group-div {
+    position: absolute;
+    height: calc(100% - 79.97px);
+    width: 100%;
+    top: 54.34px;
+    right: 0px;
+    bottom: 25.63px;
+    left: 0px;
+}
+.vector-icon14 {
+    position: absolute;
+    height: 79.25%;
+    width: 3.96%;
+    top: 10.62%;
+    right: 74.23%;
+    bottom: 10.12%;
+    left: 21.81%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-parent1 {
+    position: absolute;
+    height: calc(100% - 79.97px);
+    width: 100%;
+    top: 79.97px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+.group-parent2 {
+    position: absolute;
+    height: calc(100% - 79.97px);
+    width: 100%;
+    top: 26.66px;
+    right: 0px;
+    bottom: 53.31px;
+    left: 0px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 166px;
+    left: -629px;
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 1px solid #c5c4c4;
+    box-sizing: border-box;
+    width: 1100px;
+    height: 398px;
+    font-family: 'inter';
+}
+.ellipse-icon {
+    position: absolute;
+    top: 20.23px;
+    left: 23.9px;
+    border-radius: 50%;
+    width: 45.81px;
+    height: 43.06px;
+    object-fit: cover;
+}
+.mattew {
+    position: absolute;
+    top: -4.64px;
+    left: 85.81px;
+    font-size: 17px;
+    font-weight: 600;
+    color: #323232;
+    display: inline-block;
+    width: 117.81px;
+    height: 21.53px;
+}
+.eduardo{
+    position: absolute;
+    top: -4.64px;
+    left: 83.81px;
+    font-size: 17px;
+    font-weight: 600;
+    color: #323232;
+    display: inline-block;
+    width: 117.81px;
+    height: 21.53px;
+
+}
+.jul-2023 {
+    position: absolute;
+    top: 33.19px;
+    left: 79.72px;
+    color: #737373;
+    display: inline-block;
+    width: 78.54px;
+    height: 18.45px;
+}
+.star2{
+    position: absolute;
+  	height: 5.3%;
+  	width: 40%;
+  	top: 20.55%;
+  	right: 78.59%;
+  	left: -10.4%;
+}
+.awesome-adventure-place {
+    position: absolute;
+    top: 104.73px;
+    left: 34.45px;
+    font-weight: 300;
+    color: #000;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 1002.47px;
+    height: 36.91px;
+}
+.divstyle-styledimage-sc-1gqv {
+    position: absolute;
+    top: 196px;
+    left: 41px;
+    border-radius: 6px;
+    width: 129px;
+    height: 154px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.f281d32e661c84a34084401c586120-icon {
+    flex: 1;
+    position: relative;
+    border-radius: 6px;
+    max-width: 180px;
+    overflow: hidden;
+    height: 154px;
+    object-fit: cover;
+}
+.divstyle-styledimage-sc-1gqv1 {
+    position: absolute;
+    top: 195px;
+    left: 200px;
+    border-radius: 6px;
+    width: 129px;
+    height: 154px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.divstyle-styledimage-sc-1gqv2 {
+    position: absolute;
+    top: 195px;
+    left: 357px;
+    border-radius: 6px;
+    width: 129px;
+    height: 154px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.divstyle-styledimage-sc-1gqv3 {
+    position: absolute;
+    top: 195px;
+    left: 514px;
+    border-radius: 6px;
+    width: 112px;
+    height: 154px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.macbook-air-2-child3 {
+    position: absolute;
+    top: 597px;
+    left: -630px;
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 1px solid #c5c4c4;
+    box-sizing: border-box;
+    width: 1097px;
+    height: 400px;
+    font-family: 'inter';
+}
+
+.divstyle-styledimage-sc-1gqv8 {
+    position: absolute;
+    top: 196px;
+    left: 41px;
+    border-radius: 6px;
+    width: 129px;
+    height: 154px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.divstyle-styledimage-sc-1gqv5 {
+    position: absolute;
+    top: 196px;
+    left: 200px;
+    border-radius: 6px;
+    width: 129px;
+    height: 154px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.divstyle-styledimage-sc-1gqv6 {
+    position: absolute;
+    top: 196px;
+    left: 359px;
+    border-radius: 6px;
+    width: 129px;
+    height: 154px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.divstyle-styledimage-sc-1gqv7 {
+    position: absolute;
+    top: 196px;
+    left: 515px;
+    border-radius: 6px;
+    width: 129px;
+    height: 154px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.divstyle-styledimage-sc-1gqv4{
+    position: absolute;
+    top: 196px;
+    left: 666px;
+    border-radius: 6px;
+    width: 129px;
+    height: 151px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.macbook-air-2-child4 {
+    position: absolute;
+    top: 1020.32px;
+    left: -629.09px;
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 1px solid #c5c4c4;
+    box-sizing: border-box;
+    width: 1097px;
+    height: 172.24px;
+    font-family: 'inter';
+}
+.macbook-air-2-child1 {
+    position: absolute;
+    top: 4042.88px;
+    left: 120.9px;
+    border-radius: 50%;
+    width: 45.81px;
+    height: 43.06px;
+    object-fit: cover;
+}
+.star3{
+    position: absolute;
+  	height: 13.3%;
+  	width: 40%;
+  	top: 44.55%;
+  	right: 78.59%;
+  	left: -9.4%;
+}
+.macbook-air-2-child2 {
+    position: absolute;
+    top: 1213.07px;
+    left: -629px;
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 1px solid #c5c4c4;
+    box-sizing: border-box;
+    width: 1097px;
+    height: 172.24px;
+    font-family: 'inter';
+}
+.reviews {
+    position: absolute;
+    top: 1406.02px;
+    left: -629.72px;
+    color: #676767;
+    display: inline-block;
+    width: 83.99px;
+    height: 18.45px;
+    font-family: 'inter';
+}
+.rectangle-icon {
+    position: absolute;
+    top: 1430.55px;
+    left: -629px;
+    border-radius: 8px;
+    width: 155.99px;
+    height: 36.91px;
+}
+.show-more {
+    position: absolute;
+    top: 1422.75px;
+    left:-587.99px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    display: inline-block;
+    width: 93.81px;
+    height: 21.53px;
+    font-family: 'inter';
+}
+
+progress::-webkit-progress-value {
+    background-color: red;
+    border-radius: 20px;
+    height: 9px;
+}
+progress::-webkit-progress-bar {
+    background-color: rgb(233, 230, 230); 
+    border-radius: 20px;
+  }
+  progress {
+    position: absolute;
+    appearance: none;
+    height: 7px; 
+    width: 258px;
+    left:122px;
+    top:6px;
+  }
+ 
+ @media (max-width: 768px) {
+    .main{
+        height:3770px;
+    }
+    .image-4-icon {
+    
+      width: 100%;
+      left: 0;
+    }
+    .star{
+        display: none;
+    }
+    .img-worlds-of1{
+        left:10px;
+    }
+    .macbook-air-2-child5{
+        width: 85%;
+    }
+    .macbook-air-2-child6{
+    width:85%;
+    }
+    .these-tickets-cant{
+        width:70%;
+
+    }
+    .macbook-air-2-child7{
+        width:85%;
+        height:70%;
+        line-height: 1.2;
+    }
+   
+    .combo-tours-and-container {
+        left:10px;
+    }
+
+    .macbook-air2, 
+    .image-6-icon,
+    .rectangle-div,
+    .macbook-air-2-child3 {
+        display: none;
+    }
+  
+    .image-5-icon {
+      top: 10%;
+      left: 0;
+      width: 100%;
+    }
+
+    .combo-deals-img-container {
+      display: none;
+    }
+    .macbook-air-2-child{
+       width:100vw;
+       display: flex;
+       flex-wrap: wrap;
+       left:0px;
+    }
+
+    .macbook-air-2-child2{
+        top:413px;
+        width:900px;
+        left:-740px;
+    }
+    .macbook-air-2-child4{
+        top:213px;
+        left:-740px;
+
+    }
+  
+} 
